@@ -1,0 +1,69 @@
+{
+  "churchs": [
+    {
+      "id": "paroquia-santo-antonio-3",
+      "name": "Paróquia Santo Antônio",
+      "location": "Campinas, São José - SC",
+      "pix": "83.932.343/0041-09",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-santo-antonio-3/"
+    },
+    {
+      "id": "",
+      "name": "Paróquia Santa Teresinha Menino Jesus",
+      "location": "Prainha, Florianópolis - SC",
+      "pix": "",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-santa-teresinha-do-menino-jesus"
+    },
+    {
+      "name": "Paróquia de São José",
+      "location": "Centro Histórico, São José - SC",
+      "pix": "",
+      "instagram": "https://www.instagram.com/saojoseterrafirme",
+      "site": ""
+    },
+    {
+      "name": "Paróquia Santa Cruz",
+      "location": "Areias, São José - SC",
+      "pix": "",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-santa-cruz"
+    },
+    {
+      "name": "Paróquia São Judas Tadeu",
+      "location": "Barreiros, São José - SC",
+      "pix": "",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-sao-judas-tadeu-2"
+    },
+    {
+      "name": "Paróquia São Francisco de Assis",
+      "location": "Forquilhinhas, São José - SC",
+      "pix": "",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-sao-francisco-de-assis-2"
+    },
+    {
+      "name": "Paróquia Nossa Senhora dos Navegantes e São Pedro",
+      "location": "Serraria, São José - SC",
+      "pix": "",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-dos-navegantes-serraria-sj"
+    },
+    {
+      "name": "Paróquia Nossa Senhora do Rosário",
+      "location": "Serraria, São José - SC",
+      "pix": "",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-do-rosario-2"
+    },
+    {
+      "name": "Paróquia Sant'Ana",
+      "location": "Colônia Santana, São José - SC",
+      "pix": "",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-santana-2"
+    }
+  ]
+}

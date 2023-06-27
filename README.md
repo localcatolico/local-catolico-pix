@@ -6,3 +6,5 @@ Esse projeto tem o objetivo de disponibilizar endereços PIX para igrejas catól
 
 Sou músico e sirvo na igreja católica.
 Não quis abrangir igrejas que não conheço para não ter o risco de falha na procedencia.
+
+https://arquifln.org.br/paroquias
