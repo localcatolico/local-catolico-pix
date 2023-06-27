@@ -9,7 +9,7 @@
       "site": "https://arquifln.org.br/igrejas/paroquia-santo-antonio-3/"
     },
     {
-      "id": "",
+      "id": "paroquia-santa-teresinha-do-menino-jesus",
       "name": "Paróquia Santa Teresinha Menino Jesus",
       "location": "Prainha, Florianópolis - SC",
       "pix": "",
@@ -17,31 +17,35 @@
       "site": "https://arquifln.org.br/igrejas/paroquia-santa-teresinha-do-menino-jesus"
     },
     {
+      "id": "paroquia-de-sao-jose",
       "name": "Paróquia de São José",
       "location": "Centro Histórico, São José - SC",
       "pix": "",
       "instagram": "https://www.instagram.com/saojoseterrafirme",
-      "site": ""
+      "site": "https://arquifln.org.br/igrejas/paroquia-de-sao-jose"
     },
     {
+      "id": "paroquia-santa-cruz",
       "name": "Paróquia Santa Cruz",
       "location": "Areias, São José - SC",
       "pix": "",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/paroquiadasantacruz",
       "site": "https://arquifln.org.br/igrejas/paroquia-santa-cruz"
     },
     {
+      "id": "paroquia-sao-judas-tadeu-2",
       "name": "Paróquia São Judas Tadeu",
       "location": "Barreiros, São José - SC",
       "pix": "",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/paroquiasaojudastadeubarreiros",
       "site": "https://arquifln.org.br/igrejas/paroquia-sao-judas-tadeu-2"
     },
     {
+      "id": "paroquia-sao-francisco-de-assis-2",
       "name": "Paróquia São Francisco de Assis",
       "location": "Forquilhinhas, São José - SC",
       "pix": "",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/saofranciscodeassis.psfa",
       "site": "https://arquifln.org.br/igrejas/paroquia-sao-francisco-de-assis-2"
     },
     {
@@ -52,17 +56,19 @@
       "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-dos-navegantes-serraria-sj"
     },
     {
+      "id": "paroquia-nossa-senhora-do-rosario-2",
       "name": "Paróquia Nossa Senhora do Rosário",
       "location": "Serraria, São José - SC",
       "pix": "",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/pnsrosariosaojose",
       "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-do-rosario-2"
     },
     {
+      "id": "paroquia-santana-2",
       "name": "Paróquia Sant'Ana",
       "location": "Colônia Santana, São José - SC",
       "pix": "",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/paroquiasantanaoficial",
       "site": "https://arquifln.org.br/igrejas/paroquia-santana-2"
     }
   ]
