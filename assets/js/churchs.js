@@ -11,12 +11,15 @@ function churchs(data) {
       `<div class="accordion-item">
         <h2 class="accordion-header" id="` + church.id + `">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse` + church.id + `" aria-expanded="false" aria-controls=flush-collapse"` + church.id + `">
-            ` + church.name + `
+            <b>` + church.name + `</b>&nbsp;- ` + church.location + `
           </button>
         </h2>
         <div id="flush-collapse` + church.id + `" class="accordion-collapse collapse" aria-labelledby="` + church.id + `" data-bs-parent="#churchs">
           <div class="accordion-body">
-            <p>Faça sua oferta para <b>` + church.name + `</b></p>
+            <p>
+              Faça sua oferta para <b>` + church.name + `</b><br>
+              Localização: <b>` + church.location + `</b>
+            </p>
             <p>
               A chave PIX: <b>` + church.pix + `</b>
               <button class="btn btn-sm btn-secondary" onclick="copyToClipboard('` + church.pix + `')">
