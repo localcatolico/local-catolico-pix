@@ -17,7 +17,7 @@ function churchs(data) {
         <div id="flush-collapse` + church.id + `" class="accordion-collapse collapse" aria-labelledby="` + church.id + `" data-bs-parent="#churchs">
           <div class="accordion-body">
             <p>Faça sua oferta para <b>` + church.name + `</b></p>
-            <p>A chave PIX: <b>` + church.pix + `</b></p>
+            <p>A chave PIX: <b>` + church.pix + `</b> <button class="btn btn-sm btn-secondary" onclick="copyToClipboard('` + church.pix + `')">Copiar</button></p>
             <img src="assets/img/` + church.id + `.png" width="250" height="250"/><br><br>
             <a class="btn btn-danger" href="` + church.instagram + `">
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
