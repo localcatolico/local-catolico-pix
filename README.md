@@ -26,23 +26,23 @@ Peguei as paróquias da arquidiocese de Florianópolis: https://arquifln.org.br/
 #### Balneário Camboriú
 
 - [x] Paróquia Santa Inês (Centro)
-- [ ] Paróquia São Sebastião (Ariribá)
-- [ ] Paróquia Nossa Senhora Aparecida (Vila Real)
+- [x] Paróquia São Sebastião (Ariribá)
+- [x] Paróquia Nossa Senhora Aparecida (Vila Real)
 
 #### Biguaçu
 
-- [ ] Paróquia São João Batista
-- [ ] Paróquia São João Evangelista
+- [x] Paróquia São João Batista
+- [x] Paróquia São João Evangelista
 
 #### Bombinhas
 
-- [ ] Paróquia Nossa Senhora da Imaculada Conceição
+- [x] Paróquia Nossa Senhora da Imaculada Conceição
 
 #### Botuverá
 
-- [ ] Paróquia São José
+- [x] Paróquia São José
 
-#### Brusque 
+#### Brusque
 
 - [ ] Paróquia São Judas Tadeu (Águas Claras)
 - [ ] Paróquia Nossa Senhora de Azambuja (Azambuja)
@@ -50,14 +50,14 @@ Peguei as paróquias da arquidiocese de Florianópolis: https://arquifln.org.br/
 - [ ] Paróquia Santa Teresinha (Santa Teresinha)
 - [ ] Paróquia São Luís Gonzaga (Centro)
 
-#### Camboriú 
+#### Camboriú
 
-- [ ] Paróquia Divino Espírito Santo
-- [ ] Paróquia Senhor Bom Jesus (Monte Alegre)
+- [x] Paróquia Divino Espírito Santo
+- [x] Paróquia Senhor Bom Jesus (Monte Alegre)
 
 #### Canelinha
 
-- [ ] Paróquia Sant’Ana
+- [x] Paróquia Sant’Ana
 
 #### Florianópolis
 
@@ -87,15 +87,15 @@ Peguei as paróquias da arquidiocese de Florianópolis: https://arquifln.org.br/
 
 #### Garopaba
 
-- [ ] Paróquia São Joaquim
+- [x] Paróquia São Joaquim
 
 #### Governador Celso Ramos
 
-- [ ] Paróquia Nossa Senhora dos Navegantes
+- [x] Paróquia Nossa Senhora dos Navegantes
 
 #### Guabiruba
 
-- [ ] Paróquia Nossa Senhora do Perpétuo Socorro
+- [x] Paróquia Nossa Senhora do Perpétuo Socorro
 
 #### Itajaí
 
@@ -110,49 +110,49 @@ Peguei as paróquias da arquidiocese de Florianópolis: https://arquifln.org.br/
 
 #### Itapema
 
-- [ ] Paróquia Santo Antônio (Centro)
-- [ ] Paróquia Sagrado Coração de Jesus (Meia Praia)
+- [x] Paróquia Santo Antônio (Centro)
+- [x] Paróquia Sagrado Coração de Jesus (Meia Praia)
 
 #### Leoberto Leal
 
-- [ ] Paróquia Sagrado Coração de Jesus
+- [x] Paróquia Sagrado Coração de Jesus
 
 #### Major Gercino
 
-- [ ] Paróquia Senhor Bom Jesus
+- [x] Paróquia Senhor Bom Jesus
 
 #### Nova Trento
 
-- [ ] Paróquia São Virgílio
-- [ ] Santuário Santa Paulina
+- [x] Paróquia São Virgílio
+- [x] Santuário Santa Paulina
 
-#### Palhoça 
+#### Palhoça
 
-- [ ] Paróquia São Francisco de Assis (Aririú)
-- [ ] Paróquia Nossa Senhora do Rosário (Enseada do Brito)
-- [ ] Paróquia Senhor Bom Jesus de Nazaré (Centro)
-- [ ] Paróquia São Judas Tadeu e São João Batista (Ponte do Imaruim)
-- [ ] Paróquia São Sebastião (São Sebastião) – *nova paróquia
+- [x] Paróquia São Francisco de Assis (Aririú)
+- [x] Paróquia Nossa Senhora do Rosário (Enseada do Brito)
+- [x] Paróquia Senhor Bom Jesus de Nazaré (Centro)
+- [x] Paróquia São Judas Tadeu e São João Batista (Ponte do Imaruim)
+- [x] Paróquia São Sebastião (São Sebastião) – *nova paróquia
 
 #### Paulo Lopes
 
-- [ ] Paróquia Sagrado Coração de Jesus
+- [x] Paróquia Sagrado Coração de Jesus
 
 #### Porto Belo
 
-- [ ] Paróquia Senhor Bom Jesus dos Aflitos
+- [x] Paróquia Senhor Bom Jesus dos Aflitos
 
 #### Santo Amaro da Imperatriz
 
-- [ ] Paróquia Santo Amaro
+- [x] Paróquia Santo Amaro
 
 #### São Bonifácio
 
-- [ ] Paróquia São Bonifácio
+- [x] Paróquia São Bonifácio
 
 #### São João Batista
 
-- [ ] Paróquia São João Batista
+- [x] Paróquia São João Batista
 
 #### São José 
 
@@ -163,8 +163,8 @@ Peguei as paróquias da arquidiocese de Florianópolis: https://arquifln.org.br/
 - [x] Paróquia São José (Centro Histórico)
 - [x] Paróquia São Francisco de Assis (Forquilhinhas)
 - [x] Paróquia Nossa Senhora dos Navegantes e São Pedro (Serraria)
-- [ ] Paróquia Nossa Senhora Rosário (Nossa Senhora do Rosário)
-- [ ] Paróquia Nossa Senhora Aparecida (Procasa)
+- [x] Paróquia Nossa Senhora Rosário (Nossa Senhora do Rosário)
+- [x] Paróquia Nossa Senhora Aparecida (Procasa)
 - [x] Paróquia Sant´Ana (Colônia Santana)
 
 #### São Pedro de Alcântara
@@ -173,7 +173,7 @@ Peguei as paróquias da arquidiocese de Florianópolis: https://arquifln.org.br/
 
 #### Tijucas
 
-- [ ] Paróquia São Sebastião
+- [x] Paróquia São Sebastião
 
 ## Gerador do QR Code
 
@@ -181,3 +181,5 @@ Acho que uma próxima evolução do projeto é gerar o código QR código no pr�
 usando alguma lib ou algo do gênero.
 
 Por enquanto para validar a ideia, estou gerando neste link: https://www.gerarpix.com.br
+
+https://www.youtube.com/watch?v=xklhc_ipw_Y
