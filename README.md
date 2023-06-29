@@ -1,4 +1,4 @@
-# Igrejas católicas PIX
+# Local Católico - PIX
 
 Esse projeto tem o objetivo de disponibilizar endereços PIX para igrejas católicas.
 
