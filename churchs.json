@@ -6,7 +6,9 @@
       "location": "Campinas, São José - SC",
       "pix": "83.932.343/0041-09",
       "instagram": "",
-      "site": "https://arquifln.org.br/igrejas/paroquia-santo-antonio-3/"
+      "site": "https://arquifln.org.br/igrejas/paroquia-santo-antonio-3",
+      "phone": "4832410637",
+      "whatsapp": ""
     },
     {
       "id": "paroquia-santa-teresinha-do-menino-jesus",
@@ -14,7 +16,9 @@
       "location": "Prainha, Florianópolis - SC",
       "pix": "",
       "instagram": "",
-      "site": "https://arquifln.org.br/igrejas/paroquia-santa-teresinha-do-menino-jesus"
+      "site": "https://arquifln.org.br/igrejas/paroquia-santa-teresinha-do-menino-jesus",
+      "phone": "48988063773",
+      "whatsapp": "48988063773"
     },
     {
       "id": "paroquia-de-sao-jose",
@@ -22,7 +26,9 @@
       "location": "Centro Histórico, São José - SC",
       "pix": "",
       "instagram": "https://www.instagram.com/saojoseterrafirme",
-      "site": "https://arquifln.org.br/igrejas/paroquia-de-sao-jose"
+      "site": "https://arquifln.org.br/igrejas/paroquia-de-sao-jose",
+      "phone": "4832471596",
+      "whatsapp": "48998368117"
     },
     {
       "id": "paroquia-santa-cruz",
@@ -30,7 +36,9 @@
       "location": "Areias, São José - SC",
       "pix": "",
       "instagram": "https://www.instagram.com/paroquiadasantacruz",
-      "site": "https://arquifln.org.br/igrejas/paroquia-santa-cruz"
+      "site": "https://arquifln.org.br/igrejas/paroquia-santa-cruz",
+      "phone": "4832465572",
+      "whatsapp": "48991564056"
     },
     {
       "id": "paroquia-sao-judas-tadeu-2",
@@ -38,7 +46,9 @@
       "location": "Barreiros, São José - SC",
       "pix": "",
       "instagram": "https://www.instagram.com/paroquiasaojudastadeubarreiros",
-      "site": "https://arquifln.org.br/igrejas/paroquia-sao-judas-tadeu-2"
+      "site": "https://arquifln.org.br/igrejas/paroquia-sao-judas-tadeu-2",
+      "phone": "4832460122",
+      "whatsapp": ""
     },
     {
       "id": "paroquia-sao-francisco-de-assis-2",
@@ -46,14 +56,18 @@
       "location": "Forquilhinhas, São José - SC",
       "pix": "",
       "instagram": "https://www.instagram.com/saofranciscodeassis.psfa",
-      "site": "https://arquifln.org.br/igrejas/paroquia-sao-francisco-de-assis-2"
+      "site": "https://arquifln.org.br/igrejas/paroquia-sao-francisco-de-assis-2",
+      "phone": "4830343676",
+      "whatsapp": ""
     },
     {
       "name": "Paróquia Nossa Senhora dos Navegantes e São Pedro",
       "location": "Serraria, São José - SC",
       "pix": "",
       "instagram": "",
-      "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-dos-navegantes-serraria-sj"
+      "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-dos-navegantes-serraria-sj",
+      "phone": "4832589814",
+      "whatsapp": ""
     },
     {
       "id": "paroquia-nossa-senhora-do-rosario-2",
@@ -61,7 +75,9 @@
       "location": "Serraria, São José - SC",
       "pix": "",
       "instagram": "https://www.instagram.com/pnsrosariosaojose",
-      "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-do-rosario-2"
+      "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-do-rosario-2",
+      "phone": "4833461676",
+      "whatsapp": ""
     },
     {
       "id": "paroquia-santana-2",
@@ -69,7 +85,9 @@
       "location": "Colônia Santana, São José - SC",
       "pix": "",
       "instagram": "https://www.instagram.com/paroquiasantanaoficial",
-      "site": "https://arquifln.org.br/igrejas/paroquia-santana-2"
+      "site": "https://arquifln.org.br/igrejas/paroquia-santana-2",
+      "phone": "4832780471",
+      "whatsapp": ""
     }
   ]
 }
