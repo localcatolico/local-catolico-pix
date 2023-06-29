@@ -5,7 +5,7 @@
       "name": "Paróquia Santo Antônio",
       "location": "Campinas, São José - SC",
       "pix": "83.932.343/0041-09",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/paroquiasantoantoniocampinas",
       "site": "https://arquifln.org.br/igrejas/paroquia-santo-antonio-3",
       "phone": "4832410637",
       "whatsapp": ""
@@ -24,7 +24,7 @@
       "id": "paroquia-de-sao-jose",
       "name": "Paróquia de São José",
       "location": "Centro Histórico, São José - SC",
-      "pix": "",
+      "pix": "admpsjose@gmail.com",
       "instagram": "https://www.instagram.com/saojoseterrafirme",
       "site": "https://arquifln.org.br/igrejas/paroquia-de-sao-jose",
       "phone": "4832471596",
@@ -44,40 +44,42 @@
       "id": "paroquia-sao-judas-tadeu-2",
       "name": "Paróquia São Judas Tadeu",
       "location": "Barreiros, São José - SC",
-      "pix": "",
+      "pix": "pix@saojudastadeubarreiros.org.br",
       "instagram": "https://www.instagram.com/paroquiasaojudastadeubarreiros",
       "site": "https://arquifln.org.br/igrejas/paroquia-sao-judas-tadeu-2",
       "phone": "4832460122",
-      "whatsapp": ""
+      "whatsapp": "48991002111"
     },
     {
       "id": "paroquia-sao-francisco-de-assis-2",
       "name": "Paróquia São Francisco de Assis",
       "location": "Forquilhinhas, São José - SC",
-      "pix": "",
+      "pix": "83932343005342",
       "instagram": "https://www.instagram.com/saofranciscodeassis.psfa",
       "site": "https://arquifln.org.br/igrejas/paroquia-sao-francisco-de-assis-2",
       "phone": "4830343676",
-      "whatsapp": ""
+      "whatsapp": "",
+      "email": "paroquiaforquilhinhas@gmail.com"
     },
     {
+      "id": "paroquia-nossa-senhora-dos-navegantes-serraria-sj",
       "name": "Paróquia Nossa Senhora dos Navegantes e São Pedro",
       "location": "Serraria, São José - SC",
-      "pix": "",
+      "pix": "83932343008104",
       "instagram": "",
       "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-dos-navegantes-serraria-sj",
       "phone": "4832589814",
-      "whatsapp": ""
+      "whatsapp": "4832589814"
     },
     {
       "id": "paroquia-nossa-senhora-do-rosario-2",
       "name": "Paróquia Nossa Senhora do Rosário",
       "location": "Serraria, São José - SC",
-      "pix": "",
+      "pix": "matriz@pnsr.org.br",
       "instagram": "https://www.instagram.com/pnsrosariosaojose",
       "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-do-rosario-2",
       "phone": "4833461676",
-      "whatsapp": ""
+      "whatsapp": "48984442127"
     },
     {
       "id": "paroquia-santana-2",
@@ -87,7 +89,7 @@
       "instagram": "https://www.instagram.com/paroquiasantanaoficial",
       "site": "https://arquifln.org.br/igrejas/paroquia-santana-2",
       "phone": "4832780471",
-      "whatsapp": ""
+      "whatsapp": "48996255891"
     }
   ]
 }
