@@ -7,6 +7,8 @@ fetch("https://raw.githubusercontent.com/rafaelbmateus/igrejas-catolicas-pix/mai
 function churchs(data) {
   let churchs = "";
   for (var church of data.churchs) {
+    if (church.enable != "true"){ continue }
+
     churchs +=
       `<div class="accordion-item">
         <h2 class="accordion-header" id="` + church.id + `">
