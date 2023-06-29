@@ -90,6 +90,50 @@
       "site": "https://arquifln.org.br/igrejas/paroquia-santana-2",
       "phone": "4832780471",
       "whatsapp": "48996255891"
+    },
+    {
+      "id": "paroquia-nossa-senhora-de-fatima-e-santa-teresinha-do-menino-jesus",
+      "name": "Paróquia Nossa Senhora de Fátima e Santa Teresinha do Menino Jesus",
+      "location": "Estreito, Florianópolis - SC",
+      "pix": "",
+      "instagram": "https://www.instagram.com/fatimaestreito",
+      "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-de-fatima-e-santa-teresinha-do-menino-jesus",
+      "phone": "4832442435",
+      "whatsapp": "48991433150",
+      "email": "secretaria@santuariodefatima.net.br"
+    },
+    {
+      "id": "paroquia-sao-pedro-de-alcantara",
+      "name": "Paróquia São Pedro de Alcântara",
+      "location": "Centro, São Pedro de Alcântara - SC",
+      "pix": "83932343004028",
+      "instagram": "",
+      "site": "https://arquifln.org.br/igrejas/paroquia-sao-pedro-de-alcantara",
+      "phone": "4832770109",
+      "whatsapp": "48988731304",
+      "email": "spaarquifloripa@gmail.com"
+    },
+    {
+      "id": "paroquia-sagrados-coracoes",
+      "name": "Paróquia Sagrados Corações",
+      "location": "Barreiros, São José - SC",
+      "pix": "48988457837",
+      "instagram": "https://www.instagram.com/sagradoscoracoes",
+      "site": "https://arquifln.org.br/igrejas/paroquia-sagrados-coracoes",
+      "phone": "4832461249",
+      "whatsapp": "48988457837",
+      "email": "psagradoscoracoes@gmail.com"
+    },
+    {
+      "id": "paroquia-nossa-senhora-da-imaculada-conceicao",
+      "name": "Paróquia Nossa Senhora da Imaculada Conceição",
+      "location": "Angelina - SC",
+      "pix": "paroquiansangelina@yahoo.com.br",
+      "instagram": "https://www.instagram.com/santuario_angelina",
+      "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-da-imaculada-conceicao",
+      "phone": "4832741185",
+      "whatsapp": "4832741185",
+      "email": "paroquiansangelina@yahoo.com.br"
     }
   ]
 }
