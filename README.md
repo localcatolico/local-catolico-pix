@@ -17,15 +17,15 @@ Peguei as paróquias da arquidiocese de Florianópolis: https://arquifln.org.br/
 
 #### Anitápolis
 
-- [ ] Paróquia São Sebastião
+- [x] Paróquia São Sebastião
 
 #### Antônio Carlos
 
-- [ ] Paróquia Sagrado Coração de Jesus
+- [x] Paróquia Sagrado Coração de Jesus
 
 #### Balneário Camboriú
 
-- [ ] Paróquia Santa Inês (Centro)
+- [x] Paróquia Santa Inês (Centro)
 - [ ] Paróquia São Sebastião (Ariribá)
 - [ ] Paróquia Nossa Senhora Aparecida (Vila Real)
 
@@ -64,7 +64,7 @@ Peguei as paróquias da arquidiocese de Florianópolis: https://arquifln.org.br/
 - [ ] Paróquia Nossa Senhora de Lourdes e São Luís (Agrônomica)
 - [ ] Paróquia Nossa Senhora da Glória (Balneário do Estreito)
 - [ ] Paróquia Militar Nossa Senhora do Loreto (Base Aérea)
-- [ ] Paróquia Nossa Senhora de Guadalupe (Canasvieiras
+- [ ] Paróquia Nossa Senhora de Guadalupe (Canasvieiras)
 - [ ] Paróquia São João Batista e Santa Luzia (Capoeiras)
 - [ ] Paróquia Nossa Senhora do Desterro e Santa Catarina (Catedral)
 - [ ] Paróquia Nossa Senhora do Sagrado Coração (Campeche)

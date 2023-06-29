@@ -1,6 +1,18 @@
 {
   "churchs": [
     {
+      "id": "empty-template",
+      "name": "",
+      "location": "",
+      "pix": "",
+      "instagram": "",
+      "site": "",
+      "phone": "",
+      "whatsapp": "",
+      "email": "",
+      "enable": "false"
+    },
+    {
       "id": "paroquia-santo-antonio-3",
       "name": "Paróquia Santo Antônio",
       "location": "Campinas, São José - SC",
@@ -112,13 +124,13 @@
       "id": "paroquia-nossa-senhora-de-fatima-e-santa-teresinha-do-menino-jesus",
       "name": "Paróquia Nossa Senhora de Fátima e Santa Teresinha do Menino Jesus",
       "location": "Estreito, Florianópolis - SC",
-      "pix": "",
+      "pix": "48991433150",
       "instagram": "https://www.instagram.com/fatimaestreito",
       "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-de-fatima-e-santa-teresinha-do-menino-jesus",
       "phone": "4832442435",
       "whatsapp": "48991433150",
       "email": "secretaria@santuariodefatima.net.br",
-      "enable": "false"
+      "enable": "true"
     },
     {
       "id": "paroquia-sao-pedro-de-alcantara",
@@ -154,6 +166,42 @@
       "phone": "4832741185",
       "whatsapp": "4832741185",
       "email": "paroquiansangelina@yahoo.com.br",
+      "enable": "true"
+    },
+    {
+      "id": "paroquia-sao-sebastiao",
+      "name": "Paróquia São Sebastião",
+      "location": "Anitápolis - SC",
+      "pix": "paroquiasaosebastiaosc@gmail.com",
+      "instagram": "https://www.instagram.com/paroquiasaosebastiaoanitapolis",
+      "site": "https://arquifln.org.br/igrejas/paroquia-sao-sebastiao",
+      "phone": "4832560124",
+      "whatsapp": "4832560124",
+      "email": "paroquiasaosebastiaosc@gmail.com",
+      "enable": "true"
+    },
+    {
+      "id": "paroquia-antonio-carlos",
+      "name": "Paróquia Sagrado Coração de Jesus",
+      "location": "Antônio Carlos - SC",
+      "pix": "",
+      "instagram": "https://www.instagram.com/paroquia.scj.ac",
+      "site": "https://arquifln.org.br/igrejas/paroquia-antonio-carlos",
+      "phone": "4832721110",
+      "whatsapp": "48996596811",
+      "email": "par.scoracaodejesus@hotmail.com",
+      "enable": "false"
+    },
+    {
+      "id": "paroquia-santa-ines",
+      "name": "Paróquia Santa Inês",
+      "location": "Balneário Camboriú - SC",
+      "pix": "83932343000626",
+      "instagram": "https://www.instagram.com/santainesbc",
+      "site": "https://arquifln.org.br/igrejas/paroquia-santa-ines",
+      "phone": "4733670847",
+      "whatsapp": "",
+      "email": "paroquiasantainesbc@outlook.com",
       "enable": "true"
     }
   ]
