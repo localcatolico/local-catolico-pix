@@ -52,7 +52,7 @@
       "id": "paroquia-santa-cruz",
       "name": "Paróquia Santa Cruz",
       "location": "Areias, São José - SC",
-      "pix": "",
+      "pix": "don't have",
       "instagram": "https://www.instagram.com/paroquiadasantacruz",
       "site": "https://arquifln.org.br/igrejas/paroquia-santa-cruz",
       "phone": "4832465572",
@@ -208,7 +208,7 @@
       "id": "paroquia-sao-joao-batista-biguacu",
       "name": "Paróquia São João Batista",
       "location": "Biguaçu - SC",
-      "pix": "",
+      "pix": "wihtout-contact-by-phone",
       "instagram": "https://www.instagram.com/paroquiasaojoaobatistasc",
       "site": "https://arquifln.org.br/igrejas/paroquia-sao-joao-batista-biguacu",
       "phone": "4820123211",
@@ -268,13 +268,13 @@
       "id": "paroquia-nossa-senhora-dos-navegantes",
       "name": "Paróquia Nossa Senhora dos Navegantes",
       "location": "Governador Celso Ramos - SC",
-      "pix": "",
+      "pix": "83932343005938",
       "instagram": "https://www.instagram.com/paroquiaganchos",
       "site": "https://arquifln.org.br/igrejas/paroquia-nossa-senhora-dos-navegantes",
       "phone": "4832622318",
-      "whatsapp": "",
+      "whatsapp": "4832622318",
       "email": "contato.paroquiansn@gmail.com",
-      "enable": "false"
+      "enable": "true"
     },
     {
       "id": "paroquia-santo-antonio-2",
@@ -304,13 +304,13 @@
       "id": "paroquia-sao-sebastiao-3",
       "name": "Paróquia São Sebastião",
       "location": "Tijucas - SC",
-      "pix": "",
+      "pix": "sasebastiao@unetvale.com.br",
       "instagram": "https://www.instagram.com/pascomtijucas",
       "site": "https://arquifln.org.br/igrejas/paroquia-sao-sebastiao-3",
       "phone": "(48) 3036-0777",
-      "whatsapp": "",
+      "whatsapp": "4830360777",
       "email": "sasebastiao@unetvale.com.br",
-      "enable": "false"
+      "enable": "true"
     },
     {
       "id": "paroquia-nossa-senhora-do-rosario-2",
